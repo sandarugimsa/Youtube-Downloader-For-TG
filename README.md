@@ -25,11 +25,11 @@
     <img src="https://img.shields.io/github/repo-size/SL-Alpha-X-Team/Youtube-Downloader-For-TG?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Youtube-Downloader-For-TG">
+  <a href="https:/sandarugimsa/github.com/SL-Alpha-X-Team/Youtube-Downloader-For-TG">
     <img src="https://img.shields.io/codefactor/grade/github/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Code%20Quality&style=plastic">
 
   </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Youtube-Downloader-For-TG/blob/master/LICENSE">
+  <a href="https://github.com/sandarugimsa/sandarugimSL-Alpha-X-Team/Youtube-Downloader-For-TG/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/SL-Alpha-X-Team/Youtube-Downloader-For-TG?color=purple&label=Lisance&style=plastic">
 
   </a>
